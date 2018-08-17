@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="equals_button_text">=</string>
+    <string name="divide_button_text">/</string>
+    <string name="multiply_button_text">*</string>
+    <string name="subtract_button_text">-</string>
+    <string name="plus_button_text">+</string>
+    <string name="seven_button_text">7</string>
+    <string name="eight_button_text">8</string>
+    <string name="nine_button_text">9</string>
+    <string name="four_button__text">4</string>
+    <string name="five_button_text">5</string>
+    <string name="six_button_text">6</string>
+    <string name="one_button_text">1</string>
+    <string name="two_button_text">2</string>
+    <string name="three_button_text">3</string>
+    <string name="decimal_button_text">.</string>
+    <string name="clear_button_text">C</string>
+    <string name="clear_entry_button_text">CE</string>
+    <string name="negate_button_text">-/+</string>
+    <string name="mem_store_button_text">MS</string>
+    <string name="mem_subtract_button_text">M-</string>
+    <string name="mem_add_button_text">M+</string>
+    <string name="mem_recall_button_text">MR</string>
+    <string name="mem_clear_button_text">MC</string>
+</resources>
